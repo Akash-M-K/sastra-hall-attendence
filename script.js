@@ -12,7 +12,7 @@ const staffData = {
         ]
     },
     "S102": {
-        name: "Ravi",
+        name: "Aksath",
         timetable: [
             ["CS","Free","AI","ML","Lab","Math"],
             ["AI","CS","ML","Free","Math","Lab"],
@@ -22,7 +22,7 @@ const staffData = {
         ]
     },
     "S103": {
-        name: "Priya",
+        name: "Dharani",
         timetable: [
             ["Eng","History","Free","Geo","Eco","Tamil"],
             ["Geo","Eng","Eco","Free","Tamil","History"],
@@ -32,7 +32,7 @@ const staffData = {
         ]
     },
     "S104": {
-        name: "Yohitha",
+        name: "Atchaya",
         timetable: [
             ["Bio","Chem","Free","Physics","Lab","Math"],
             ["Physics","Bio","Chem","Free","Math","Lab"],
@@ -42,7 +42,7 @@ const staffData = {
         ]
     },
     "S105": {
-        name: "Meena",
+        name: "Yohitha",
         timetable: [
             ["Tamil","Eng","Free","History","Geo","Eco"],
             ["History","Tamil","Geo","Free","Eco","Eng"],
@@ -52,7 +52,7 @@ const staffData = {
         ]
     },
     "S106": {
-        name: "Arun",
+        name: "Vicky",
         timetable: [
             ["AI","ML","Free","DS","Lab","Math"],
             ["DS","AI","ML","Free","Math","Lab"],
@@ -62,7 +62,7 @@ const staffData = {
         ]
     },
     "S107": {
-        name: "Divya",
+        name: "Kiran",
         timetable: [
             ["Physics","Math","Free","Chem","Lab","CS"],
             ["Chem","Physics","Math","Free","CS","Lab"],
@@ -72,7 +72,7 @@ const staffData = {
         ]
     },
     "S108": {
-        name: "Vikram",
+        name: "Aishwarya",
         timetable: [
             ["Accounts","Eco","Free","Stats","Bank","Math"],
             ["Stats","Accounts","Eco","Free","Math","Bank"],
@@ -82,7 +82,7 @@ const staffData = {
         ]
     },
     "S109": {
-        name: "Nisha",
+        name: "Bharani",
         timetable: [
             ["Bio","Free","Chem","Physics","Lab","Math"],
             ["Chem","Bio","Physics","Free","Math","Lab"],
@@ -92,7 +92,7 @@ const staffData = {
         ]
     },
     "S110": {
-        name: "Surya",
+        name: "Arun",
         timetable: [
             ["Law","Free","PolSci","History","Eco","Tamil"],
             ["PolSci","Law","History","Free","Tamil","Eco"],
